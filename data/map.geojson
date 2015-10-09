@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "@Key": 0, "@Color": "220:  20:  60", "NAME": "sample1", "URL": "http:\/\/www.e-misuzu.com" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 138.501377503, 36.311955604 ], [ 138.501377503, 36.282690746 ], [ 138.529984167, 36.282687112 ], [ 138.529994867, 36.311952383 ], [ 138.501377503, 36.311955604 ] ] ] } }
+]
+}
